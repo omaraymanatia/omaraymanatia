@@ -1,4 +1,4 @@
-#- 👋 Hi, I’m Omar Ayman Atia
+#👋 Hi, I’m Omar Ayman Atia
 - 👀 I’m interested in problem solving using programming and 
 - 🌱 I’m currently learning computer science and artificial intellgence
 - 💞️ I’m looking to collaborate on ...
