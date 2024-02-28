@@ -17,9 +17,10 @@
 <img align="right" src="https://github.com/ahmedhany14/ahmedhany14/blob/main/Images/Right_Side.gif?raw=true" width=30%>
 
 <br><br>
-- :I’m currently learning machine learning and deep learning.
+- I’m currently learning machine learning and deep learning.
 - :school: I am an `UnderGraduate` Student at [Faculty of Computers & Informatics](https://fci.bu.edu.eg/) at [Benha University](https://bu.edu.eg/).
 - :computer: I am a competitive programmer at `Codeforces`, `Leetcode`, `Codechef`, `HackerRank`.
+- 2x `ECPC` competitor
 - 💬 Ask me about MySql - scikit learn - pandas - numpy - matplotlib - seaborn.
 - 🤝 I’m looking for an Internship or Part-Time Job.
 
