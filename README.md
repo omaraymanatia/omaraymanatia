@@ -21,7 +21,7 @@
 - :school: I am an `UnderGraduate` Student at [Faculty of Computers & Informatics](https://fci.bu.edu.eg/) at [Benha University](https://bu.edu.eg/).
 - :computer: I am a competitive programmer at `Codeforces`, `Leetcode`, `Codechef`, `HackerRank`.
 - 2x `ECPC` competitor
-- 💬 Ask me about MySql - scikit learn - pandas - numpy - matplotlib - seaborn.
+- 💬 Ask me about C++ - MySql - Scikit learn - Pandas - Numpy - Matplotlib - Seaborn.
 - 🤝 I’m looking for an Internship or Part-Time Job.
 
 <br>
